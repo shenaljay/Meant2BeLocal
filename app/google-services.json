@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689567563332",
+    "project_id": "meant2belocal",
+    "storage_bucket": "meant2belocal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689567563332:android:e0f317191d486dbc8b8611",
+        "android_client_info": {
+          "package_name": "com.example.meant2belocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689567563332-ugrcnfivv3or84gft6259sb1r20snaj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meant2belocal",
+            "certificate_hash": "8557a3f78cfa51d30708ee24ed341d78b561f2e7"
+          }
+        },
+        {
+          "client_id": "689567563332-o0d7kkslm56nnfid6gft9soodu86k092.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW_-xXeuUdkqStzgT1elFMIaofAFh3rOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689567563332-o0d7kkslm56nnfid6gft9soodu86k092.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
